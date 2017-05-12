@@ -10,3 +10,6 @@ elif 26 <= temp <= 35:
     print 'Uuente'
 else:
     print 'Muito quente'
+
+#outra forma de fazer
+print 'Frio...' if temp < 15 else 'normal'
