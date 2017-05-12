@@ -1,0 +1,4 @@
+Alguns frameworks:
+    processamento de imagens: PIL
+    processamento científico: NumPy e SciPy
+    interface gráfica: wxPython, PyGTK e PyQt
