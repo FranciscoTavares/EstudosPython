@@ -18,4 +18,4 @@ print 'c=', c
 print 'parte real', c.real
 print 'parte imaginária', c.imag
 print 'conjugado', c.conjugate()
-
+print 10%3
